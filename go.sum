@@ -1,2 +1,4 @@
 github.com/wangjc0216/errlog v1.0.0 h1:vdQxRtVhdrAv3dCCjHpfeQjOqV9+aMrG0yuy9ISeXKg=
 github.com/wangjc0216/errlog v1.0.0/go.mod h1:RGEcy/bILjLPRrggjh1Q0LYNCf79dSKZBi2hkhXo5pA=
+github.com/wangjc0216/errlog v1.1.0 h1:EH8TEqW6AwHSFdhXBnG2lC/ME1lWHgkcD99eibARYA4=
+github.com/wangjc0216/errlog v1.1.0/go.mod h1:RGEcy/bILjLPRrggjh1Q0LYNCf79dSKZBi2hkhXo5pA=
